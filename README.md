@@ -84,7 +84,7 @@ pip install -r requirements.txt
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chemistry-mini-projects.git
+git clone https://github.com/nichroot/chemistry-mini-projects.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
@@ -173,13 +173,8 @@ Potential enhancements for future versions:
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
-
-Example:
-
-```md
-![App Screenshot](assets/screenshot.png)
-```
+<img width="1817" height="821" alt="image" src="https://github.com/user-attachments/assets/a11f0bf3-53e0-4451-b4d8-8aab5f154cf6" />
+<img width="1817" height="821" alt="1778529645345433582" src="https://github.com/user-attachments/assets/322fef62-0fca-4b79-a91e-2e0ca636d630" />
 
 ---
 
@@ -199,14 +194,6 @@ To contribute:
 ## 📜 License
 
 This project is developed for educational purposes under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-### Mohammed Nishal  
-**1st Year B.Tech CSE**  
-Jain University, Kochi
 
 ---
 
